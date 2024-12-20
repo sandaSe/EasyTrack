@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "expense-manager-443707",
-  "private_key_id": "f48c405eeb96939ed4d4932552abaf420aaee83e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzpxSJHwmWf2WD\nJJbSgl7M1fUttFete0LXM4UzNzjv0fpG3c4gSW7gCSeS76WpM92M4f1TQ4Bg0Mm7\nGT4m2HPXobiPdFr75b/DhikCX3377ogOQP851/4V07ppigiOFAsxlDklUcto+oFj\nNXvVeejQj+FXyH2IP7EUZ5vKmsXPkHDffCBxMKTOepiN8UByHicR3AgbfzWQVlIo\n4JmH5OiMOI1+FsLE/N0at33wZE5HvG6u8kRK5JzxlG2W4sTgn4TO+ZyJzaLmLUyk\n0zgQPvRme/keZID+wURy8aQMC5r2rjw/cXBuVuGKWTJXFASl5Z+BHvCCRQPkE2sx\nQXbLr9etAgMBAAECggEACLY5acQufFhVhkGv6nDZdQanU8iPieTxP3Juh4o4nhuw\nVdFPLadOaPZG6GTrpusndBEdpx+d6gzeypWDnsbzxOykq0NTmCyH8JP2M7HB4feA\ngd1VXABzcgBMurUhYL2Ia990fU1OLJs5rrHCGdP/M2WAjQXvpHS7kGrplfWMbq9p\nz1nyViPHWoWwqX32C7ieoANf6yxa4TL7CBXbFHirt0YnEMpyol1dvnrGkpnwKTbc\n6HoGpshMdo70Kc/wa0yuhMBdwPDtyK8bTWUlcRaPyVYYHD9ssyLd0hgmKVJZqBeV\nNcGwbpzWFfeFe0s//0UjTG6cxTvoI+pAj0LDpq4btwKBgQDZew/MBifW0N2jqjCa\nPHo/dwmyaZO9UMUtTjQ1dFIQCQvOivT710+6NQTTWdPHGVffEhvES3rY6s/2u6jR\nhtWVrbSU5ie/2+hWp3kd2Ko8YSXbxILymMlcneDGO80FEAkfGLX2pfQxPCtpIqIg\nwr/5gCrdmZJ5O4NhcTya1FZkTwKBgQDTeNTbtBBSyvk0oLNdMAGTwKCoRVFOWiti\nGsDB4nvMEk37cdXXEB3tggayOmhDFZJhhvf/3PxIwKPM4f5T4McNp99/Yw/Er2Wu\nAKU0LSdSJMnNF+bAapzagQegiIi0V0qpF7sZGHbcKylHd7yY1ChtLD+hDlmwZMlV\n04gE4eI5QwKBgCndjsTvymuH+aKv+Hs4eTAOckduG4quKcb27wX7RnDfzO4NwetZ\nH3fxDOTCvgntzwSaL84x2Yw4Z6BPr8fl9OfDcKfZRn2gj7Feu+oK83p8GRWdVrfs\nwZaardJ7YJRA6gCaeSzp9YAk3RZ4HE3CL8KP8bCHB7NeyYPQkKIdjiPxAoGATDdM\nYDKxf2VwE6uneXqH1vyh6oOxHhAZeq4xsq8x9wbR3EHW1EAWyTcHusyaLzNjIotG\nbozy0DW902XQB+MHWsCaKItHb5fXibLp17g+Z7iikqx+mfLSvV2rpgwPWQ/s9Kx8\n3jqW/BsCMaPR8TLlrxM3i5BketKYTbqDV18h7YkCgYB0Jhv/TR9cACsVHvX2TAUT\nGjAKpIqXkkOUOHk49VCIfMdZ6DGX2qtTbR741bCbJ7KO19XOEXrCEnbvGaGK3Lf0\nxiEKvOEwsYawkOUbR0NZRkpfjfdcKKGAInQpfDmxtbdMi/Q9e1ezmH+6t12gFxxO\nrqy2vTW6ue8QdswK9DQVig==\n-----END PRIVATE KEY-----\n",
-  "client_email": "item-extractor-and-processor@expense-manager-443707.iam.gserviceaccount.com",
-  "client_id": "113480562358792718036",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/item-extractor-and-processor%40expense-manager-443707.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
