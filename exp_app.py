@@ -10,7 +10,8 @@ from process_data import process_bill_data
 from currency_converter import convert_currency
 from db import add_expense, add_new_cycle, get_expenses_by_cycle
 from db import session, Expense, SpendingCycle
-
+from dotenv import load_dotenv
+load_dotenv()
 
 def add_sidebar(image_path):
     with st.sidebar:
@@ -81,7 +82,7 @@ def main():
 
                 st.session_state.data = process_bill_data(
                     input_variables,
-                    api_key="AIzaSyCYKnabMkTZgHdwRbZhlvYiKmMfidU4tCU"
+                    api_key=os.getenv("API_KEY")
                 )
                 #st.write(st.session_state.data)
                 st.session_state.view_pressed = True  # Activate View button state
