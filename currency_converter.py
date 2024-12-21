@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Replace with your API key
-api_key = '72bea73258c299a52aba2bb5'
+api_key = ExchangeRate_API_KEY
 
 # Function to get conversion rate and perform the conversion
 def convert_currency(base_currency, target_currency, amount, date=None):
